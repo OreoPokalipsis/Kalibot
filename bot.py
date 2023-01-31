@@ -1,1 +1,1 @@
-from telebot
+import telebot
